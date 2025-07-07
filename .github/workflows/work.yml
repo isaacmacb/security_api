@@ -1,4 +1,4 @@
-name : Spring com github actions
+name: Java CI com Maven
 
 on: [push, pull_request]
 
